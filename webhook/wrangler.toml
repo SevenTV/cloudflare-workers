@@ -1,0 +1,8 @@
+name = "7tv-production-status"
+main = "src/index.ts"
+compatibility_date = "2022-09-27"
+
+[vars]
+DISCORD_NEW_INCIDENT_MESSAGE="<@&1023468667180159036> <a:FEELSWAYTOODANKMAN:1023469246136729630> 🤜 🔔"
+DISCORD_INCIDENT_RESOLVED_MESSAGE="<a:FeelsDankCube:854955723221762058> The issue was resolved"
+DISCORD_INCIDENT_UPDATE_MESSAGE="<a:pepeS:1024417987559686204> Incident update"
